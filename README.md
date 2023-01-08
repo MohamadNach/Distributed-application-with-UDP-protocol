@@ -1,6 +1,6 @@
 # Distributed System
 
-A distributed system is a network of computers that work together to perform a task, such as processing data or running an application. In a distributed system, each computer or device in the network has its own processing capabilities and can work independently, but they also communicate with each other to coordinate their efforts and share resources.
+A distributed system is a network of computers that work together to perform a task, such as processing data or running an application. In a distributed system, each computer or device ie network has its own processing capabilities and can work independently, but they also communicate with each other to coordinate their efforts and share resources.
 
 # UDP Protocol
 
@@ -8,5 +8,7 @@ The User Datagram Protocol (UDP) is a connectionless protocol that is used to tr
 
 In a distributed system, UDP can be used to transmit data between nodes in the network. Because it is a connectionless protocol, it does not establish a dedicated connection between the sender and receiver before transmitting data. Instead, the sender simply sends the data and the receiver receives it, without any handshaking or other setup. This makes UDP suitable for applications that need to transmit large amounts of data quickly, but do not require the reliability or error checking of TCP.
 
+One example of where UDP is used in distributed systems is in real-time applications, such as online gaming or video conferencing. These applications need to transmit data quickly and can tolerate some loss of data, so UDP is a good choice.
+
 ![](udp-vs-tcp--1-.png)
-![Image Resource]([Distributed-system.jpg](https://www.atatus.com/blog/what-is-udp/))
+[www.atatus.com]((https://www.atatus.com/blog/what-is-udp/))
