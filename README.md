@@ -8,4 +8,5 @@ The User Datagram Protocol (UDP) is a connectionless protocol that is used to tr
 
 In a distributed system, UDP can be used to transmit data between nodes in the network. Because it is a connectionless protocol, it does not establish a dedicated connection between the sender and receiver before transmitting data. Instead, the sender simply sends the data and the receiver receives it, without any handshaking or other setup. This makes UDP suitable for applications that need to transmit large amounts of data quickly, but do not require the reliability or error checking of TCP.
 
-![](Distributed-system.jpg)
+![](udp-vs-tcp--1-.png)
+![Image Resource]([Distributed-system.jpg](https://www.atatus.com/blog/what-is-udp/))
