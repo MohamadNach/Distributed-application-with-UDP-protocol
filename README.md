@@ -12,3 +12,7 @@ One example of where UDP is used in distributed systems is in real-time applicat
 
 ![](udp-vs-tcp--1-.png)
 [www.atatus.com]((https://www.atatus.com/blog/what-is-udp/))
+
+## Project Details
+
+This project was done in distributed software course at LAB University. The main goal was to create two distributed applications (server and client) that can be used to send messages and simple files from a client to a server using UDP protocol. The message and the file name can be a string in the command line. the first command line parameter is the port that the server listens to and the second parameter is the port that the client connects to and the third one for the server address. the name of the file will transfer to the server too.
